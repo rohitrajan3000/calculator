@@ -1,0 +1,20 @@
+.center{
+    text-align: center;
+}
+.bg{
+    background-color: burlywood;
+}
+
+.flex{
+    display: flex;
+}
+.flex-col{
+    flex-direction: column;
+}
+
+.item-center{
+    align-items: center;
+}
+body{
+    background-color: burlywood;
+}
